@@ -1,0 +1,45 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dr. Yu Xie | Academic Homepage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Dr. Yu Xie</h1>
+
+<p>
+Research Fellow in Hydrogen Combustion<br>
+School of Mechanical Engineering<br>
+University of Leeds, UK
+</p>
+
+<p>
+My research focuses on the fundamental mechanisms of flame instability,
+self-acceleration, and morphological evolution in premixed hydrogen combustion.
+</p>
+
+<p>
+ORCID:
+<a href="https://orcid.org/0000-0002-2857-4079">
+0000-0002-2857-4079
+</a>
+</p>
+
+</body>
+</html>
+add index.html
+
